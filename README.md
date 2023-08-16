@@ -1,1 +1,1 @@
-# BetaNet
+# Cleaned up Bldg Footprint Project
