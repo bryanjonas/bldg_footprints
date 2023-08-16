@@ -1,0 +1,1 @@
+model_save/openbldg/sig_grey filter=lfs diff=lfs merge=lfs -text
